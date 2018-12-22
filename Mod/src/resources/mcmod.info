@@ -1,0 +1,16 @@
+[
+{
+  "modid": "mademarmelade",
+  "name": "MadeMarmelade",
+  "description": "Marmelademod für Made",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["SyselMitY"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
